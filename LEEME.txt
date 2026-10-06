@@ -1,0 +1,9 @@
+SER NIÑO EN LA GUERRA DE UCRANIA · B2
+
+Extrae toda esta carpeta y abre index.html en Chrome, Edge o Firefox.
+Mantén juntos index.html, app.js, data.js, style.css y assets.
+El PDF y el audio están en assets. Si el PDF no se muestra dentro de la web, usa Abrir PDF.
+El progreso se guarda en el navegador. Exporta el progreso para trasladarlo a otro equipo o conservar una copia.
+
+Material base: ProfedeELE.es, Federico Escudero Álvarez (adaptación didáctica), a partir de un artículo de Margaryta Yakovenko, El País, marzo de 2022. PDF y audio aportados por la usuaria. Actividades web complementarias para Español con Paula.
+La atribución conserva los créditos; no concede una licencia adicional de redistribución del PDF o del audio.
